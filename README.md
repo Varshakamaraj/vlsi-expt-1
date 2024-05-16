@@ -28,9 +28,7 @@ STEP:6 Click the simulation to simulate the program and give the inputs and veri
 
 LOGIC-GATES:
 
-
 ![image](https://github.com/Varshakamaraj/vlsi-expt-1/assets/165577098/3f2ba806-750a-4dbf-8871-16ce29a79b74)
-
 
 PROGRAM:
 
